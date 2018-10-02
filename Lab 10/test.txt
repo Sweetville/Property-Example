@@ -1,0 +1,48 @@
+Residential 1 50 10 0002
+Residential 1 7334211 0 85 bang bang bang
+Residential 0 ajdsif;hbweiopdf
+thejoker
+Residential 0 51276 1 0.23 444 yayyyyyy
+Residential 0 29592 233 Who said these had to be realistic?
+Residential 0 9322 1 12357 upon a time
+Commercial 24668832 0.2 2 istoleflameocircle
+dog 1 77299351 0 0.2 12 epic failure
+Residential 1 234542 245 Flameo Circle
+Commercial 1 -11000 0 Extracredit shouldbeowrthmore
+Residential 1 2 why should i
+
+
+Results:
+Where would you like to load the file from?: test.txt
+Ignoring bad RESIDENTIAL in input file: Residential  1 50 10 0002
+Ignoring bad RESIDENTIAL in input file: Residential  0 ajdsif;hbweiopdf
+Ignoring unknown types of properties appearing in the input file: thejoker
+Ignoring bad RESIDENTIAL in input file: Residential  0 29592 233 Who said these had to be realistic?
+Ignoring bad COMMERCIAL in input file: Commercial  24668832 0.2 2 istoleflameocircle
+Ignoring unknown types of properties appearing in the input file: dog  1 77299351 0 0.2 12 epic failure
+Ignoring bad RESIDENTIAL in input file: Residential  1 234542 245 Flameo Circle
+Ignoring bad COMMERCIAL in input file: Commercial  1 -11000 0 Extracredit shouldbeowrthmore
+Ignoring bad RESIDENTIAL in input file: Residential  1 2 why should i
+
+Property id: 0 Address:  85 bang bang bang  Rental  Estimated value:  7.33421e+006  NOT Occupied
+Property id: 1 Address:  0.23 444 yayyyyyy  NOT rental  Estimated value:  51276  Occupied
+Property id: 2 Address:  12357 upon a time  NOT rental  Estimated value:  9322  Occupied
+
+
+NOW PRINTING TAX REPORT :                       Would you like to sort the property before displaying? (0 for no, 1 for yes): 1
+
+Would you like to sort by tax payment or by address? (0 for payment, 1 for address): 1
+Your properties have been sorted.
+
+** Taxes due for the property at :       0.23 444 yayyyyyy
+        Property id :                                           1
+        This property has an estimated value of :               51276
+        Taxes due on this property are :                        307.656
+** Taxes due for the property at :       12357 upon a time
+        Property id :                                           2
+        This property has an estimated value of :               9322
+        Taxes due on this property are :                        55.932
+** Taxes due for the property at :       85 bang bang bang
+        Property id :                                           0
+        This property has an estimated value of :               7.33421e+006
+        Taxes due on this property are :                        66007.9Press any key to continue . . .
